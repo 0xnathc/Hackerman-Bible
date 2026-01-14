@@ -3,7 +3,7 @@ ethical hacking infodump <3
 
 
 
-all folders named "topic-title Main" contain the main background info for each topic
+all folders named "TOPIC-TITLE Main" contain the main background info for each topic
 
 other files are supplementary 
 
