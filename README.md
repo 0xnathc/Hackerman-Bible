@@ -1,2 +1,12 @@
 # Hackerman-Bible
-ethical hacking infodump 
+ethical hacking infodump <3
+
+
+
+all folders named "<topic-title> Main" contain the main background info for each topic
+
+other files are supplementary 
+
+
+
+many thanks to S9A for his contributions
